@@ -5,7 +5,7 @@
     opacity: 0;
     width: 0px;
     height: 100vh;
-    background: white;
+    background: black;
     position: absolute;
     top: 0;
     z-index: -1;
@@ -48,7 +48,7 @@
     }
 
         #nav p a:hover {
-            color: black;
+            color: red;
         }
 
 *::selection {
@@ -87,7 +87,7 @@
 
 *::selection{
   background: black;
-  color: black;
+  color: white;
 }
 #nav h1{
   font-size: 4em;
